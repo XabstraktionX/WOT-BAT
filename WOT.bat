@@ -9,7 +9,7 @@ Dossier Uploader are running before blindly starting them.
 
 * http://worldoftanks.com/
 * http://www.vbaddict.net/wotstatistics.php
-* http://www.vbaddict.net/upload.php
+* http://www.vbaddict.net/adu.php
 * http://opensource.org/licenses/MIT
 
 ### Changelog:
